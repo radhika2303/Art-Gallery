@@ -48,3 +48,9 @@ To build an Art Gallery Management System for interactions between artists, cust
 ## ER-diagram:
 
 ![alt text](https://github.com/MrunalKotkar/Art-Gallery/blob/main/art_gallery/ERDiagram.png)
+
+
+## Admin Side Features:
+
+## User Side Features:
+
